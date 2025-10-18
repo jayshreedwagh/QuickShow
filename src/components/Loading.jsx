@@ -7,6 +7,7 @@ const Loading = () => {
         border-t-primary'>
         </div>
     </div>
+    
   )
 }
 
